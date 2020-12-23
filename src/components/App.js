@@ -12,10 +12,10 @@ class App extends Component {
         <Router>
           <ul>
             <li>
-              <a href="/">Home</a>
+              <a href="https://g279s.sse.codesandbox.io/">Home</a>
             </li>
             <li>
-              <a href="/about">About</a>
+              <a href="https://g279s.sse.codesandbox.io/about">About</a>
             </li>
           </ul>
           <Switch>
